@@ -1,2 +1,2 @@
 #!/bin/bash
-diff etc/passwd etc/hosts
+file /etc/passwd /etc/hots
