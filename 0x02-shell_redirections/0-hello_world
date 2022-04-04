@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr > hello world
+cat > "Hello, World"
