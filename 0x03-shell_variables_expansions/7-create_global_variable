@@ -1,2 +1,2 @@
 #!/bin/bash
-set BASH="School"
+export BASH="School"
